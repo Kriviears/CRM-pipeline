@@ -9,7 +9,7 @@
 <li>After a 10 minute delay the delayed_process function is called
 delayed_process reads the file at the address based on information in its payload
 Then matches up specific information to be sent to an email or slack channel</li>
-<li>Step 4: send-slack-message reads the message sent to it and through a slack app sends a message to any channel with that slack app in it</li>
+<li>Send-slack-message reads the message sent to it and through a slack app sends a message to any channel with that slack app in it</li>
 </ol>
 <br>
 Thank you for reading
